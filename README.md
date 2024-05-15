@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://github.com/johansitoweb/Johanifycss/assets/147890607/8610b3b0-3415-4453-b3f9-6c1240f5e01d">
+<img src="https://github.com/johansitoweb/Johanifycss/assets/147890607/bca662e9-2901-41dd-b1ce-003cfa660620">
 
-  
+
+
 
   
 </div>
