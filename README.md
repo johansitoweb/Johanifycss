@@ -125,7 +125,7 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-           h-57px          w-57px
+             <div class="  h-57px  w-57px"></div>
 
              <div class="container">contenedor</div>
            
@@ -133,7 +133,7 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
 </body>
 </html>
 ```
-## como crear un card en Johanifycss 1.1.
+## como crear una card en Johanifycss 1.1.
 ```html
 <!-- index.html -->
 <html>
@@ -152,8 +152,12 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
 ```
 version 1.1  a un no esta disponible........
 
-
-
-
 ## Johanifycss es un framework que apartir de la version 1.2 sera de codigo abierto.
+
+#Que trae Johanifycss 1.1
+##Johanifycss trae mejoras 
+##una pequeña libreria integrada
+##una pagina de iconos
+##componentes mas personalizables tendras mas libertad de crear tu interfazes y mas.
+##extencion en vizual studio code 
 
