@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![milogo-removebg-preview](https://github.com/johansitoweb/Johanifycss/assets/147890607/8610b3b0-3415-4453-b3f9-6c1240f5e01d)">
+<img src="https://github.com/johansitoweb/Johanifycss/assets/147890607/8610b3b0-3415-4453-b3f9-6c1240f5e01d">
 
   
 
@@ -77,7 +77,7 @@ una pagina de fuente de iconos y mas
 
 ## Exclusivamente CSS
 
-Johanycss es un framework que se adacta para cualquier programador sin importar su nivel
+Johanycss es un framework que se adacta para cualquier programador sin importar su nivel.
 
 ## Suporte para Browsers
 
@@ -86,12 +86,83 @@ Johanifycss es compatible con:
 * Firefox
 * Safari
 
-Não testado
-* IE/Edge
+## como centralizar un texto con Johanifycss.
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+            <h1 class="text-center">texto</h1>
+</body>
+</html>
+```
 
-## Copyright e licença
+##Como crear botones con Johanifycss.
+por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una de ella para crear un boton sencillo es:
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+              <button class="boton-compl-towq-primary">Enviar</button>
+</body>
+</html>
+```
+## como crear una alerta.
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="alert-color-primary">Soy una alerta</div>
 
-Código e documentação copyright 2018 [B.C.Rikko](https://github.com/BcRikko). Código lançado sobre a Licença MIT. Documentação e novos lançamentos com Creative Commons.
+            <div class="alert-color-violet">alerta</div>
+</body>
+</html>
+```
+## como poner acho , alto y un contenedor
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+           h-57px          w-57px
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+## como crear un card en Johanifycss 1.1.
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+               <div class="card">
+
+        <div class="circle"></div>
+       <div class="circle"></div>
+       <div class="card-inner">
+       <h1>hola</h1></div>
+</body>
+</html>
+```
+Esta version a un no esta disponible
+
+
+
 
 ## Johanifycss es un framework que apartir de la version 1.2 sera de codigo abierto.
 
