@@ -12,33 +12,25 @@ Johanifycss. Es un framework de css resien salido es un framework que te da la s
 
 ## Instalação
 
-### Esta es una pequeña Documentacion de Johanifycss se esta trabajando en la documentacion completa la cual forma parte de la segunda version
+### Esta es una pequeña Documentacion de Johanifycss se esta trabajando en la documentacion oficial la cual forma parte de la segunda version
 
-Johanifycss esta disponible por cdn estamos trabajando en la siguiente version en la version 1.1 una version que deja mucho  que deseal.
+Johanifycss esta disponible por CDN estamos trabajando en la siguiente version en la version 1.1 una version que deja mucho  que deseal.
 ```html
 <!--CDN de Johanifycss-->
 <link href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
 ```
 
-#### via gerenciador de pacotes
 
-todabia npm etc....no esta disponible forma parte de la segunda version Johanifycss 1.1
+ Todabia no esta disponible en  npm etc....esto forma parte de la segunda version Johanifycss 1.1
 ```shell
+#npm
 npm install Johanifycss
-# ou
+# yarn
 yarn add Johanifycss
 ```
 
-Nosso `package.json` contém alguns metadata adicionais, sob as seguintes chaves:
-* `sass` - caminho para nosso arquivo de código fonte principal Sass
-* `style` - caminho para nosso CSS não-minificado
 
-
-
-
-
-
-Você precisa instalar o css-loader.
+Insertalo en tu estructuta html
 
 ##### HTML
 ```html
@@ -53,15 +45,13 @@ Você precisa instalar o css-loader.
 
 ### via CDN
 
-Importe o CSS através de um elemento `<link />`:
-
 ```html
 <!-- Johanifycss -->
 <link href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css" rel="stylesheet" />
 
 ```
 
-### Fontes
+### Johanifycss
 
 Johanifycss es un framework muy facil de usar y de aprender 
 
@@ -69,13 +59,13 @@ Johanifycss es un framework muy facil de usar y de aprender
 
 ## Utilização
 
-Johanifycss 1.1 esta en fase beta y a un no tiene fecha de lansamiento
+Johanifycss 1.1 esta en fase beta y a un no tiene fecha de lansamiento.
 
 La proxima version 1.1 ofrece mucho la nueva version de Johanifycss trae una pequeña libreria integrada extencion en vizual studio code,
 una pagina de fuente de iconos y mas
 
 
-## Exclusivamente CSS
+## Johanifycss
 
 Johanycss es un framework que se adacta para cualquier programador sin importar su nivel.
 
@@ -159,7 +149,7 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
 </body>
 </html>
 ```
-version 1.1  a un no esta disponible
+version 1.1  a un no esta disponible........
 
 
 
