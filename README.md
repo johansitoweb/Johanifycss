@@ -114,6 +114,12 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
              <div class="alert-color-primary">Soy una alerta</div>
 
             <div class="alert-color-violet">alerta</div>
+
+            <div class="alert-color-blue">alerta</div>
+
+           <div class="alert-color-red">alerta</div>
+
+           <div class="alert-color-white">alerta</div>
 </body>
 </html>
 ```
@@ -141,12 +147,12 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-               <div class="card">
-
+       <div class="card">
         <div class="circle"></div>
        <div class="circle"></div>
        <div class="card-inner">
-       <h1>hola</h1></div>
+       <h1>hola</h1>
+       </div>
 </body>
 </html>
 ```
