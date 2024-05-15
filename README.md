@@ -160,10 +160,15 @@ version 1.1  a un no esta disponible........
 
 ## Johanifycss es un framework que apartir de la version 1.2 sera de codigo abierto.
 
-#Que trae Johanifycss 1.1
-##Johanifycss trae mejoras 
-##una pequeña libreria integrada
-##una pagina de iconos
-##componentes mas personalizables tendras mas libertad de crear tu interfazes y mas.
-##extencion en vizual studio code 
+Que trae Johanifycss 1.1
+
+Johanifycss trae mejoras 
+
+una pequeña libreria integrada
+
+una pagina de iconos
+
+componentes mas personalizables tendras mas libertad de crear tu interfazes y mas.
+
+extencion en vizual studio code 
 
