@@ -159,7 +159,7 @@ por ejemplo para crear botones con Johanifycss hay varias formas de crearlo una 
 </body>
 </html>
 ```
-Esta version a un no esta disponible
+version 1.1  a un no esta disponible
 
 
 
