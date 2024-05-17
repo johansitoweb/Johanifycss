@@ -11,6 +11,8 @@ Johanifycss. Es un framework de css resien salido es un framework que te da la s
 
 
 
+
+
 ## Instalação
 
 ### Esta es una pequeña Documentacion de Johanifycss se esta trabajando en la documentacion oficial la cual forma parte de la segunda version
@@ -166,9 +168,205 @@ Johanifycss trae mejoras
 
 una pequeña libreria integrada
 
+
 una pagina de iconos
 
 componentes mas personalizables tendras mas libertad de crear tu interfazes y mas.
 
 extencion en vizual studio code 
 
+
+<h1>Crontruye con Johanifycss</h1>
+En esta pequeña seccion encontraras todo lo que necesitas saber de como utilizar la version 1.0 de Johanifycss.
+
+<h2>texto de colores con Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="  h-57px  w-57px"></div>
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+
+<h2>botones con Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="  h-57px  w-57px"></div>
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+<h2>alertas con Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="  h-57px  w-57px"></div>
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+<h2>como crear una card con Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="  h-57px  w-57px"></div>
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+<h2>contenedores de  Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="  h-57px  w-57px"></div>
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+<h2>como utilizar los anchos y altos de Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+             <div class="  h-57px  w-57px"></div>
+
+             <div class="container">contenedor</div>
+           
+
+</body>
+</html>
+```
+<h2>colores en Johanifycss</h2>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+          
+
+    color-primary
+    color-second
+    color-third
+    color-verd
+    color-violet
+    color-white
+    color-red
+    color-grid
+    color-black
+    color-orange
+    color-blue
+    color-blueviolet
+           
+
+</body>
+</html>
+```
+
+
+
+<h2>Crear una web sencilla con Johanifycss</h2>
+
+<p>para crear una web  con Johanifycss se realizaria de la siguiente manera</p>
+<p>la web la realizaras por una seriesa de 6 pasos</p>
+<p>paso 1</p>
+<p>Importa el cdn de Johanifycss</p>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>    
+</body>
+</html>
+```
+
+<p>paso 2</p>
+<p>Agrega un container</p>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body> 
+    <div class="container"></div>
+</body>
+</html>
+```
+
+<p>paso 3</p>
+<p>Agrega una card o formulario y agrega un poco de contenido</p>
+
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body> 
+    <div class="container">
+
+
+   </div>
+</body>
+</html>
+```
+
+
+<h1>Quien es el creador de Johanifycss </h1>
+
+<p> El creador del framework Johanifycss es un ingeniero en sistema y programador llamado Johan antonio </p>
+
+<p> Nombre artistico: Johansitoweb</p>
