@@ -1,10 +1,5 @@
-<div  style="display: bloque; margen: 0 auto; whidth: 500px; alight:center;">
-<img src="https://github.com/johansitoweb/Johanifycss/assets/147890607/bca662e9-2901-41dd-b1ce-003cfa660620">
-
-
-
-
-  
+<div  style="display: bloque; margen: 0 auto; whidth: 500px; align="center">
+<img src="https://github.com/johansitoweb/Johanifycss/assets/147890607/bca662e9-2901-41dd-b1ce-003cfa660620" style="align="center"">
 </div>
  <h2>Johanifycss 1.0</h2>
 Johanifycss. Es un framework de css resien salido es un framework que te da la sensacion de estar creando en <p><stroung>css,Bootstrap y tailwindcss</stroung></p>
