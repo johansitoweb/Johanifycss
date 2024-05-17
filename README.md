@@ -332,7 +332,7 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
 <h2>Crear una web sencilla con Johanifycss</h2>
 
 <p>para crear una web  con Johanifycss se realizaria de la siguiente manera</p>
-<p>la web la realizaras por una seriesa de 6 pasos</p>
+<p>la web la realizaras en 3 muy sencillo  pasos</p>
 <p>paso 1</p>
 <p>Importa el cdn de Johanifycss</p>
 
