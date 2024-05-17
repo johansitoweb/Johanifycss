@@ -372,7 +372,7 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-   div>Esta es una pagina sencilla con Johanifycss</div>
+   <div>Esta es una pagina sencilla con Johanifycss</div>
     <div class="container">
       <div class="card">
         <div class="circle"></div>
