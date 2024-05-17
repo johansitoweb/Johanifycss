@@ -13,7 +13,7 @@ Johanifycss. Es un framework de css resien salido es un framework que te da la s
 
 
 
-## Instalação
+## Johanifycss1.0
 
 ### Esta es una pequeña Documentacion de Johanifycss se esta trabajando en la documentacion oficial la cual forma parte de la segunda version
 
@@ -71,8 +71,6 @@ una pagina de fuente de iconos y mas
 ## Johanifycss
 
 Johanycss es un framework que se adacta para cualquier programador sin importar su nivel.
-
-## Suporte para Browsers
 
 Johanifycss es compatible con:
 * Chrome
@@ -171,9 +169,14 @@ una pequeña libreria integrada
 
 una pagina de iconos
 
+extencion en vizual studio code 
+
+una pagina de plantillas echas totalmente con Johanifycss 
+
 componentes mas personalizables tendras mas libertad de crear tu interfazes y mas.
 
-extencion en vizual studio code 
+
+
 
 
 <h1>Crontruye con Johanifycss</h1>
@@ -206,9 +209,14 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-             <div class="  h-57px  w-57px"></div>
-
-             <div class="container">contenedor</div>
+           <button class="boton-compl-towq-primary">Enviar</button>
+          <button class="boton-compl-towq-violet">Enviar</button>
+          <button class="boton-compl-towq-blue">Enviar</button>
+         <button class="boton-compl-towq-blueviolet">Enviar</button>
+         <button class="boton-compl-towq-red">Enviar</button>
+         <button class="boton-compl-towq-white">Enviar</button>
+        <button class="boton-compl-towq-orange">Enviar</button>
+        <button class="boton-compl-towq-secondary">Enviar</button>
            
 
 </body>
@@ -223,10 +231,16 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-             <div class="  h-57px  w-57px"></div>
+            
+           <div class="alert-color-primary">Soy una alerta</div>
 
-             <div class="container">contenedor</div>
-           
+            <div class="alert-color-violet">alerta</div>
+
+            <div class="alert-color-blue">alerta</div>
+
+           <div class="alert-color-red">alerta</div>
+
+           <div class="alert-color-white">alerta</div>
 
 </body>
 </html>
@@ -240,9 +254,12 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-             <div class="  h-57px  w-57px"></div>
-
-             <div class="container">contenedor</div>
+            <div class="card">
+        <div class="circle"></div>
+       <div class="circle"></div>
+       <div class="card-inner">
+       <h1>hola</h1>
+       </div>
            
 
 </body>
@@ -257,7 +274,7 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-             <div class="  h-57px  w-57px"></div>
+             <div class="container-anch"></div>
 
              <div class="container">contenedor</div>
            
@@ -276,7 +293,7 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
   <body>
              <div class="  h-57px  w-57px"></div>
 
-             <div class="container">contenedor</div>
+            
            
 
 </body>
@@ -292,20 +309,19 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
   </head>
   <body>
           
-
-    color-primary
-    color-second
-    color-third
-    color-verd
-    color-violet
-    color-white
-    color-red
-    color-grid
-    color-black
-    color-orange
-    color-blue
-    color-blueviolet
-           
+<div class="color-primary"></div>
+<div class="color-secondary"></div>
+<div class="color-third"></div>
+<div class="color-verd"></div>
+<div class="color-violet"></div>
+<div class="color-white"></div>
+<div class="color-red"></div>
+<div class="color-grid"></div>
+<div class="color-black"></div>
+<div class="color-orange"></div>
+<div class="color-blue"></div>
+<div class="color-blueviolet"></div>
+      
 
 </body>
 </html>
@@ -355,11 +371,32 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
   <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
-  <body> 
+  <body>
+   div>Esta es una pagina sencilla con Johanifycss</div>
     <div class="container">
+      <div class="card">
+        <div class="circle"></div>
+       <div class="circle"></div>
+       <div class="card-inner">
+       <h1>hola</h1>
+       </div>
+
 
 
    </div>
+</body>
+</html>
+```
+
+## como centralizar un texto con Johanifycss.
+```html
+<!-- index.html -->
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
+  </head>
+  <body>
+            <h1 class="text-center">texto</h1>
 </body>
 </html>
 ```
