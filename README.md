@@ -186,9 +186,13 @@ En esta pequeña seccion encontraras todo lo que necesitas saber de como utiliza
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/johansitoweb/vs1.0@main/framework-Johanifycss-version1.0.css">
   </head>
   <body>
-             <div class="  h-57px  w-57px"></div>
+             <div class="color-primary">azul claro</div>
+           <div class="color-blue">azul</div>
+          <div class="color-violet">rosado</div>
+         
+         
+         
 
-             <div class="container">contenedor</div>
            
 
 </body>
